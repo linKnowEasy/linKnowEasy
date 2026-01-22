@@ -1,0 +1,19 @@
+{
+  "platforms": [
+    {
+      "url": "https://cdn1.example.com/config.json",
+      "timeout": 5000
+    },
+    {
+      "url": "https://cdn2.example.com/config.json",
+      "timeout": 5000
+    }
+  ],
+  "urls": [
+    "https://bage-api.feifeijiasu.cn",
+    "https://api.backup1.com",
+    "https://api.backup2.com"
+  ],
+  "platformsVersion": 1,
+  "urlsVersion": 2
+}
