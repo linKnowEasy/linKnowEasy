@@ -3,10 +3,6 @@
     {
       "url": "https://github.com/linKnowEasy/linKnowEasy/blob/master/config.json",
       "timeout": 5000
-    },
-    {
-      "url": "https://248e85f3.linknoweasy.pages.dev/config.json",
-      "timeout": 5000
     }
   ],
   "urls": [
