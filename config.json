@@ -3,6 +3,10 @@
     {
       "url": "https://github.com/linKnowEasy/linKnowEasy/blob/master/config.json",
       "timeout": 5000
+    },
+    {
+      "url": "https://drive.usercontent.google.com/download?id=1poTlknpw1MbYKgxG76BlobTvubh_wRpE&export=download",
+      "timeout": 5000
     }
   ],
   "urls": [
