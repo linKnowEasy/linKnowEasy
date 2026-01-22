@@ -5,7 +5,7 @@
       "timeout": 5000
     },
     {
-      "url": "https://github.com/linKnowEasy/linKnowEasy/blob/master/config.json",
+      "url": "https://248e85f3.linknoweasy.pages.dev/config.json",
       "timeout": 5000
     }
   ],
@@ -13,5 +13,5 @@
     "https://bage-api.feifeijiasu.cn"
   ],
   "platformsVersion": 1,
-  "urlsVersion": 2
+  "urlsVersion": 1
 }
